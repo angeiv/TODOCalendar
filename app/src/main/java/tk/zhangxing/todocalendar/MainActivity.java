@@ -98,6 +98,10 @@ public class MainActivity extends ActionBarActivity
             return true;
         }
 
+        if (id == R.id.action_settings_about) {
+            return true;
+        }
+
         return super.onOptionsItemSelected(item);
     }
 

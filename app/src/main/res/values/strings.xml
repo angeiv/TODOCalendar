@@ -3,12 +3,14 @@
 
     <string name="title_section1">任务查看</string>
     <string name="title_section2">待完成任务</string>
-    <string name="title_section3">关于</string>
+    <string name="title_section3">已完成任务</string>
 
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
 
-    <string name="action_example">Example action</string>
+    <string name="action_example" translatable="false">+</string>
 
     <string name="action_settings">设置</string>
+    <string name="action_settings_about">关于</string>
+
 </resources>
