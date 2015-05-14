@@ -13,7 +13,12 @@
         app:showAsAction="never" />
     <item
         android:id="@+id/action_settings_about"
-        android:orderInCategory="100"
+        android:orderInCategory="101"
         android:title="@string/action_settings_about"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_settings_version"
+        android:orderInCategory="102"
+        android:title="@string/action_settings_version"
         app:showAsAction="never" />
 </menu>
