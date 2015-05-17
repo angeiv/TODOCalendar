@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">计划日历</string>
+    <string name="action_settings_version">版本</string>
+    <string name="action_settings">设置</string>
+    <string name="action_settings_about">关于</string>
+    <string name="action_example" translatable="false">+</string>
+    <string name="title_section1">任务查看</string>
+    <string name="title_section2">待完成任务</string>
+    <string name="title_section3">已完成任务</string>
+</resources>

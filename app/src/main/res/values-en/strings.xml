@@ -7,4 +7,5 @@
     <string name="title_section3">Jobs Completed</string>
     <string name="title_section2">Jobs To Do</string>
     <string name="action_settings_version">Version</string>
+    <string name="action_example" translatable="false">+</string>
 </resources>
